@@ -1,0 +1,16 @@
+H:\6TI\UAA14\NathanM_Act0(4)\NathanM_Act0(4)\bin\Debug\NathanM_Act0(4).exe.config
+H:\6TI\UAA14\NathanM_Act0(4)\NathanM_Act0(4)\bin\Debug\NathanM_Act0(4).exe
+H:\6TI\UAA14\NathanM_Act0(4)\NathanM_Act0(4)\bin\Debug\NathanM_Act0(4).pdb
+H:\6TI\UAA14\NathanM_Act0(4)\NathanM_Act0(4)\obj\Debug\NathanM_Act0(4).csproj.AssemblyReference.cache
+H:\6TI\UAA14\NathanM_Act0(4)\NathanM_Act0(4)\obj\Debug\NathanM_Act0(4).csproj.SuggestedBindingRedirects.cache
+H:\6TI\UAA14\NathanM_Act0(4)\NathanM_Act0(4)\obj\Debug\MainWindow.g.cs
+H:\6TI\UAA14\NathanM_Act0(4)\NathanM_Act0(4)\obj\Debug\App.g.cs
+H:\6TI\UAA14\NathanM_Act0(4)\NathanM_Act0(4)\obj\Debug\NathanM_Act0(4)_MarkupCompile.cache
+H:\6TI\UAA14\NathanM_Act0(4)\NathanM_Act0(4)\obj\Debug\NathanM_Act0(4)_MarkupCompile.lref
+H:\6TI\UAA14\NathanM_Act0(4)\NathanM_Act0(4)\obj\Debug\MainWindow.baml
+H:\6TI\UAA14\NathanM_Act0(4)\NathanM_Act0(4)\obj\Debug\NathanM_Act0(4).g.resources
+H:\6TI\UAA14\NathanM_Act0(4)\NathanM_Act0(4)\obj\Debug\NathanM_Act0_4_.Properties.Resources.resources
+H:\6TI\UAA14\NathanM_Act0(4)\NathanM_Act0(4)\obj\Debug\NathanM_Act0(4).csproj.GenerateResource.cache
+H:\6TI\UAA14\NathanM_Act0(4)\NathanM_Act0(4)\obj\Debug\NathanM_Act0(4).csproj.CoreCompileInputs.cache
+H:\6TI\UAA14\NathanM_Act0(4)\NathanM_Act0(4)\obj\Debug\NathanM_Act0(4).exe
+H:\6TI\UAA14\NathanM_Act0(4)\NathanM_Act0(4)\obj\Debug\NathanM_Act0(4).pdb
