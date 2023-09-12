@@ -40,13 +40,13 @@ namespace ACT00_REVISION
             }
         }
         // fonction qui calcule la longueur de l'hypothénuse à partir de 2 cotés de type double
-        public double Hypo(int x, int y)// ... nommée Hypo
+        public double Hypo(double x, double y)// ... nommée Hypo
         {
             double z = Math.Sqrt(Math.Pow(x, 2) + Math.Pow(y, 2));
             return z;
         }
         // fonction qui permet de déterminer si oui ou non un triangle est rectangle en se basant sur ses 3 côtés
-        public bool TriangleRectangle(int a, int b, int c) // nommée TriangleRectangle
+        public bool TriangleRectangle(double a, double b, double c) // nommée TriangleRectangle
         {
             bool ok = false;
             double hypothenuse = Hypo(b, c);
@@ -90,7 +90,7 @@ namespace ACT00_REVISION
             // ... Compléter ce qui manque...
         }
         // procédure qui détermine si un triangle est isocèle ou non sur base des longueurs de côtés
-        public void Isocele(ref bool ok, int a, int b, int c)// nommée Isocele
+        public void Isocele(ref bool ok, double a, double b, double c)// nommée Isocele
         {
             ok = false;
             if ((a == b) ^ (a == c) ^ (b == c))   // '^' est le 'ou' exclusif (xor)
@@ -99,7 +99,7 @@ namespace ACT00_REVISION
             }
         }
         // fonction booléenne qui détermine si un triangle est équilatéral sur base de ses côtés
-        public bool Equi(int a, int b , int c)// nommée Equi
+        public bool Equi( double a, double b , double c)// nommée Equi
         {
             bool ok = false;
             if ((a == b) && (a == c))

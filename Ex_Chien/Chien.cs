@@ -21,6 +21,59 @@ namespace Chien
         private bool _dresser;
 
         // méthodes publiques
+        public string Nom
+        {
+            get { return _genre; }
+            set { _genre = value; }
+        }
+        public uint Age
+        {
+            get { return _age; }
+            set { _age = value; }
+        }
+        public string Genre
+        {
+            get { return _genre; }
+            set { _genre = value; }
+        }
+        public bool EnOrdeDeVaccin
+        {
+            get { return _enOrdreDeVaccin; }
+            set { _enOrdreDeVaccin = value; }
+        }
+        public bool Puce
+        {
+            get { return _puce; }
+            set { _puce = value; }
+        }
+        public bool Sterelise
+        {
+            get { return _puce; }
+            set { _puce = value; }
+        }
+        public bool Aveugle
+        {
+            get { return _aveugle; }
+            set { _aveugle = value; }
+        }
+        public bool Sourd
+        {
+            get { return _sourd; }
+            set { _sourd = value; }
+        }
+        public bool Dresser
+        {
+            get { return _dresser; }
+            set { _dresser = value; }
+        }
+
+
+
+
+
+
+
+
 
         // le constructeur (toujours le même nom que la classe)
         public UnChien(string nom,string race, uint age, bool enOrdreDeVaccin, bool puce, bool sterelise, string genre, bool aveugle, bool sourd, bool dresser)

@@ -5,8 +5,9 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:NathanM_Act0_5_"
         mc:Ignorable="d"
-        Title="MainWindow" Height="450" Width="800">
+        Title="MainWindow" Height="250" Width="600">
     <Grid>
-        
+        <TextBlock TextAlignment="Center" Height="235" Width="300" Margin="-300,0,0,0">Hello</TextBlock>
+        <Button Height="50" Width="50" Content="Center" Margin="300,0,0,0"></Button>
     </Grid>
 </Window>
