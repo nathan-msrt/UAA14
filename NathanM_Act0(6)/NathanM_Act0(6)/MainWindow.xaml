@@ -7,6 +7,12 @@
         mc:Ignorable="d"
         Title="MainWindow" Height="450" Width="800">
     <Grid>
-        
+        <ListBox Margin="-300,0,0,0">
+            <ListBoxItem Foreground="red">Serrure #1</ListBoxItem>
+            <ListBoxItem Foreground="Orange">Serrure #2</ListBoxItem>
+            <ListBoxItem Foreground="green">Serrure #3</ListBoxItem>
+            <ListBoxItem Foreground="violet">Drill FR6</ListBoxItem>
+            <ListBoxItem Foreground="Blue">Jour de plus</ListBoxItem>
+        </ListBox>
     </Grid>
 </Window>

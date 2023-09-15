@@ -1,0 +1,42 @@
+﻿<Window x:Class="NathanM_Agencement_2_.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:NathanM_Agencement_2_"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="500" Width="300">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="*"/>
+            <ColumnDefinition Width="*"/>
+            <ColumnDefinition Width="*"/>
+            <ColumnDefinition Width="*"/>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+        <Button Grid.Column="0" Grid.Row="1"  Width="50" Height="70" Content="1"></Button>
+        <Button Grid.Column="0" Grid.Row="2"  Width="50" Height="70" Content="4"></Button>
+        <Button Grid.Column="0" Grid.Row="3"  Width="50" Height="70" Content="7"></Button>
+        <Button Grid.Column="0" Grid.Row="4"  Width="50" Height="70" Content=","></Button>
+        <Button Grid.Column="1" Grid.Row="1"  Width="50" Height="70" Content="2"></Button>
+        <Button Grid.Column="1" Grid.Row="2"  Width="50" Height="70" Content="5"></Button>
+        <Button Grid.Column="1" Grid.Row="3"  Width="50" Height="70" Content="8"></Button>
+        <Button Grid.Column="1" Grid.Row="4"  Width="50" Height="70" Content="0"></Button>
+        <Button Grid.Column="2" Grid.Row="1"  Width="50" Height="70" Content="3"></Button>
+        <Button Grid.Column="2" Grid.Row="2"  Width="50" Height="70" Content="6"></Button>
+        <Button Grid.Column="2" Grid.Row="3"  Width="50" Height="70" Content="9"></Button>
+        <Button Grid.Column="2" Grid.Row="4"  Width="50" Height="70" Content="*"></Button>
+        <Button Grid.Column="3" Grid.Row="0" Width="50" Height="70" Content="C"></Button>
+        <Button Grid.Column="3" Grid.Row="1"  Width="50" Height="70" Content="+"></Button>
+        <Button Grid.Column="3" Grid.Row="2"  Width="50" Height="70" Content="-"></Button>
+        <Button Grid.Column="3" Grid.Row="3"  Width="50" Height="70" Content="/"></Button>
+        <Button Grid.Column="3" Grid.Row="4"  Width="50" Height="70" Content="="></Button>
+    </Grid>
+</Window>
+
