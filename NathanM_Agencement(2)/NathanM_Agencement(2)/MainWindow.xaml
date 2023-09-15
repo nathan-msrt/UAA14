@@ -6,7 +6,7 @@
         xmlns:local="clr-namespace:NathanM_Agencement_2_"
         mc:Ignorable="d"
         Title="MainWindow" Height="500" Width="300">
-    <Grid>
+    <Grid Background="#b2ccc2">
         <Grid.ColumnDefinitions>
             <ColumnDefinition Width="*"/>
             <ColumnDefinition Width="*"/>
@@ -20,23 +20,24 @@
             <RowDefinition Height="*"/>
             <RowDefinition Height="*"/>
         </Grid.RowDefinitions>
-        <Button Grid.Column="0" Grid.Row="1"  Width="50" Height="70" Content="1"></Button>
-        <Button Grid.Column="0" Grid.Row="2"  Width="50" Height="70" Content="4"></Button>
-        <Button Grid.Column="0" Grid.Row="3"  Width="50" Height="70" Content="7"></Button>
-        <Button Grid.Column="0" Grid.Row="4"  Width="50" Height="70" Content=","></Button>
-        <Button Grid.Column="1" Grid.Row="1"  Width="50" Height="70" Content="2"></Button>
-        <Button Grid.Column="1" Grid.Row="2"  Width="50" Height="70" Content="5"></Button>
-        <Button Grid.Column="1" Grid.Row="3"  Width="50" Height="70" Content="8"></Button>
-        <Button Grid.Column="1" Grid.Row="4"  Width="50" Height="70" Content="0"></Button>
-        <Button Grid.Column="2" Grid.Row="1"  Width="50" Height="70" Content="3"></Button>
-        <Button Grid.Column="2" Grid.Row="2"  Width="50" Height="70" Content="6"></Button>
-        <Button Grid.Column="2" Grid.Row="3"  Width="50" Height="70" Content="9"></Button>
-        <Button Grid.Column="2" Grid.Row="4"  Width="50" Height="70" Content="*"></Button>
-        <Button Grid.Column="3" Grid.Row="0" Width="50" Height="70" Content="C"></Button>
-        <Button Grid.Column="3" Grid.Row="1"  Width="50" Height="70" Content="+"></Button>
-        <Button Grid.Column="3" Grid.Row="2"  Width="50" Height="70" Content="-"></Button>
-        <Button Grid.Column="3" Grid.Row="3"  Width="50" Height="70" Content="/"></Button>
-        <Button Grid.Column="3" Grid.Row="4"  Width="50" Height="70" Content="="></Button>
+        <TextBlock Grid.ColumnSpan="3" Width="200" Height="70" Background="#d3e1d8"></TextBlock>
+        <Button Grid.Column="0" Grid.Row="1"  Width="50" Height="70" Content="1" Background="#223633"></Button>
+        <Button Grid.Column="0" Grid.Row="2"  Width="50" Height="70" Content="4" Background="#223633"></Button>
+        <Button Grid.Column="0" Grid.Row="3"  Width="50" Height="70" Content="7" Background="#223633"></Button>
+        <Button Grid.Column="0" Grid.Row="4"  Width="50" Height="70" Content="," Background="#223633"></Button>
+        <Button Grid.Column="1" Grid.Row="1"  Width="50" Height="70" Content="2" Background="#223633"></Button>
+        <Button Grid.Column="1" Grid.Row="2"  Width="50" Height="70" Content="5" Background="#223633"></Button>
+        <Button Grid.Column="1" Grid.Row="3"  Width="50" Height="70" Content="8" Background="#223633"></Button>
+        <Button Grid.Column="1" Grid.Row="4"  Width="50" Height="70" Content="0" Background="#223633"></Button>
+        <Button Grid.Column="2" Grid.Row="1"  Width="50" Height="70" Content="3" Background="#223633"></Button>
+        <Button Grid.Column="2" Grid.Row="2"  Width="50" Height="70" Content="6" Background="#223633"></Button>
+        <Button Grid.Column="2" Grid.Row="3"  Width="50" Height="70" Content="9" Background="#223633"></Button>
+        <Button Grid.Column="2" Grid.Row="4"  Width="50" Height="70" Content="*" Background="#223633"></Button>
+        <Button Grid.Column="3" Grid.Row="0" Width="50" Height="70" Content="C" Background="#bba236"></Button>
+        <Button Grid.Column="3" Grid.Row="1"  Width="50" Height="70" Content="+" Background="#44745e"></Button>
+        <Button Grid.Column="3" Grid.Row="2"  Width="50" Height="70" Content="-" Background="#44745e"></Button>
+        <Button Grid.Column="3" Grid.Row="3"  Width="50" Height="70" Content="/" Background="#44745e"></Button>
+        <Button Grid.Column="3" Grid.Row="4"  Width="50" Height="70" Content="=" Background="#bba236"></Button>
     </Grid>
 </Window>
 
