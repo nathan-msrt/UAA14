@@ -1,0 +1,5 @@
+H:\6TI\UAA14\I2P623_MassartN\I2P623_MassartN\obj\Debug\net6.0\I2P623_MassartN.csproj.AssemblyReference.cache
+H:\6TI\UAA14\I2P623_MassartN\I2P623_MassartN\obj\Debug\net6.0\I2P623_MassartN.GeneratedMSBuildEditorConfig.editorconfig
+H:\6TI\UAA14\I2P623_MassartN\I2P623_MassartN\obj\Debug\net6.0\I2P623_MassartN.AssemblyInfoInputs.cache
+H:\6TI\UAA14\I2P623_MassartN\I2P623_MassartN\obj\Debug\net6.0\I2P623_MassartN.AssemblyInfo.cs
+H:\6TI\UAA14\I2P623_MassartN\I2P623_MassartN\obj\Debug\net6.0\I2P623_MassartN.csproj.CoreCompileInputs.cache
