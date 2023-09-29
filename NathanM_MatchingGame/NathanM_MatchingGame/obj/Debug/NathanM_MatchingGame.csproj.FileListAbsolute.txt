@@ -1,0 +1,16 @@
+H:\6TI\UAA14\NathanM_MatchingGame\NathanM_MatchingGame\bin\Debug\NathanM_MatchingGame.exe.config
+H:\6TI\UAA14\NathanM_MatchingGame\NathanM_MatchingGame\bin\Debug\NathanM_MatchingGame.exe
+H:\6TI\UAA14\NathanM_MatchingGame\NathanM_MatchingGame\bin\Debug\NathanM_MatchingGame.pdb
+H:\6TI\UAA14\NathanM_MatchingGame\NathanM_MatchingGame\obj\Debug\NathanM_MatchingGame.csproj.AssemblyReference.cache
+H:\6TI\UAA14\NathanM_MatchingGame\NathanM_MatchingGame\obj\Debug\NathanM_MatchingGame.csproj.SuggestedBindingRedirects.cache
+H:\6TI\UAA14\NathanM_MatchingGame\NathanM_MatchingGame\obj\Debug\MainWindow.g.cs
+H:\6TI\UAA14\NathanM_MatchingGame\NathanM_MatchingGame\obj\Debug\App.g.cs
+H:\6TI\UAA14\NathanM_MatchingGame\NathanM_MatchingGame\obj\Debug\NathanM_MatchingGame_MarkupCompile.cache
+H:\6TI\UAA14\NathanM_MatchingGame\NathanM_MatchingGame\obj\Debug\NathanM_MatchingGame_MarkupCompile.lref
+H:\6TI\UAA14\NathanM_MatchingGame\NathanM_MatchingGame\obj\Debug\MainWindow.baml
+H:\6TI\UAA14\NathanM_MatchingGame\NathanM_MatchingGame\obj\Debug\NathanM_MatchingGame.g.resources
+H:\6TI\UAA14\NathanM_MatchingGame\NathanM_MatchingGame\obj\Debug\NathanM_MatchingGame.Properties.Resources.resources
+H:\6TI\UAA14\NathanM_MatchingGame\NathanM_MatchingGame\obj\Debug\NathanM_MatchingGame.csproj.GenerateResource.cache
+H:\6TI\UAA14\NathanM_MatchingGame\NathanM_MatchingGame\obj\Debug\NathanM_MatchingGame.csproj.CoreCompileInputs.cache
+H:\6TI\UAA14\NathanM_MatchingGame\NathanM_MatchingGame\obj\Debug\NathanM_MatchingGame.exe
+H:\6TI\UAA14\NathanM_MatchingGame\NathanM_MatchingGame\obj\Debug\NathanM_MatchingGame.pdb

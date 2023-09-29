@@ -3,3 +3,13 @@ H:\6TI\UAA14\I2P623_MassartN\I2P623_MassartN\obj\Debug\net6.0\I2P623_MassartN.Ge
 H:\6TI\UAA14\I2P623_MassartN\I2P623_MassartN\obj\Debug\net6.0\I2P623_MassartN.AssemblyInfoInputs.cache
 H:\6TI\UAA14\I2P623_MassartN\I2P623_MassartN\obj\Debug\net6.0\I2P623_MassartN.AssemblyInfo.cs
 H:\6TI\UAA14\I2P623_MassartN\I2P623_MassartN\obj\Debug\net6.0\I2P623_MassartN.csproj.CoreCompileInputs.cache
+H:\6TI\UAA14\I2P623_MassartN\I2P623_MassartN\bin\Debug\net6.0\I2P623_MassartN.exe
+H:\6TI\UAA14\I2P623_MassartN\I2P623_MassartN\bin\Debug\net6.0\I2P623_MassartN.deps.json
+H:\6TI\UAA14\I2P623_MassartN\I2P623_MassartN\bin\Debug\net6.0\I2P623_MassartN.runtimeconfig.json
+H:\6TI\UAA14\I2P623_MassartN\I2P623_MassartN\bin\Debug\net6.0\I2P623_MassartN.dll
+H:\6TI\UAA14\I2P623_MassartN\I2P623_MassartN\bin\Debug\net6.0\I2P623_MassartN.pdb
+H:\6TI\UAA14\I2P623_MassartN\I2P623_MassartN\obj\Debug\net6.0\I2P623_MassartN.dll
+H:\6TI\UAA14\I2P623_MassartN\I2P623_MassartN\obj\Debug\net6.0\refint\I2P623_MassartN.dll
+H:\6TI\UAA14\I2P623_MassartN\I2P623_MassartN\obj\Debug\net6.0\I2P623_MassartN.pdb
+H:\6TI\UAA14\I2P623_MassartN\I2P623_MassartN\obj\Debug\net6.0\I2P623_MassartN.genruntimeconfig.cache
+H:\6TI\UAA14\I2P623_MassartN\I2P623_MassartN\obj\Debug\net6.0\ref\I2P623_MassartN.dll

@@ -1,0 +1,25 @@
+﻿<Window x:Class="NathanM_Events.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:NathanM_Events"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="800" Width="550">
+    <Grid Background="Gray">
+        <Grid.RowDefinitions>
+            <RowDefinition />
+            <RowDefinition />
+            <RowDefinition />
+            <RowDefinition />
+        </Grid.RowDefinitions>
+        <TextBlock VerticalAlignment="Center" Margin="0,0,-120,0" Width="300" Height="100" Grid.Row="0" Background="White"> </TextBlock>
+        <TextBlock VerticalAlignment="Center" Margin="-300,0,0,0" Width="100" Height="100" Grid.Row="0" Text="A" FontSize="70" TextAlignment="Center"></TextBlock>
+        <TextBlock VerticalAlignment="Center" Margin="0,0,-120,0" Width="300" Height="100" Grid.Row="1" Background="White"></TextBlock>
+        <TextBlock VerticalAlignment="Center" Margin="-300,0,0,0" Width="100" Height="100" Grid.Row="1" Text="B" FontSize="70" TextAlignment="Center"></TextBlock>
+        <TextBlock VerticalAlignment="Center" Margin="0,0,-120,0" Width="300" Height="100" Grid.Row="2" Background="White"></TextBlock>
+        <TextBlock VerticalAlignment="Center" Margin="-300,0,0,0" Width="100" Height="100" Grid.Row="2" Text="C" FontSize="70" TextAlignment="Center"></TextBlock>
+        <Button VerticalAlignment="Center" Margin="-200,0,0,0" Width="300" Height="100" Grid.Row="3" FontSize="65" Background="White">CACULER </Button>
+        <Button VerticalAlignment="Center" Margin="0,0,-300,0" Width="100" Height="100" Grid.Row="3"  FontSize="60" Background="White" >V</Button>
+    </Grid>
+</Window>
