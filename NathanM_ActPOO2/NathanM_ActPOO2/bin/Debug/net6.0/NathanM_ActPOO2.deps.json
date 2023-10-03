@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "NathanM_ActPOO2/1.0.0": {
+        "runtime": {
+          "NathanM_ActPOO2.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "NathanM_ActPOO2/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

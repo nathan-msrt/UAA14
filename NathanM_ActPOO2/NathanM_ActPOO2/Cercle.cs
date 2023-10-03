@@ -22,20 +22,18 @@ namespace NathanM_ActPOO2
 		}
 		public double CalculerAire()
 		{
-			double aire = (double)(_rayon *_rayon + Math.PI);
+			double aire = Math.PI * _rayon * _rayon;
 			return aire;
 		}
 		public double CalculerPerimetre() 
         {
-			double perimetre = (double)(2* _rayon + Math.PI);
+			double perimetre = 2 * Math.PI * _rayon ;
 			return perimetre;
         }
 		public string AfficherCaractéristiques()
 		{
-			double perimetre = this.CalculerPerimetre();
-			double aire = this.CalculerAire();
-			string chaine = " Le cercle de rayon " + _rayon + " a un perimetre de " + perimetre + " et une aire de " + aire +".";
+			string chaine = " Le cercle de rayon " + _rayon + " a un perimetre de " + CalculerPerimetre() + " et une aire de " + CalculerAire() +".";
 			return chaine;	
 		}
-	}
+    }
 }
