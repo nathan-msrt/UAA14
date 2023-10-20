@@ -13,13 +13,13 @@
             <RowDefinition />
             <RowDefinition />
         </Grid.RowDefinitions>
-        <TextBlock VerticalAlignment="Center" Margin="0,0,-120,0" Width="300" Height="100" Grid.Row="0" Background="White"> </TextBlock>
-        <TextBlock VerticalAlignment="Center" Margin="-300,0,0,0" Width="100" Height="100" Grid.Row="0" Text="A" FontSize="70" TextAlignment="Center"></TextBlock>
-        <TextBlock VerticalAlignment="Center" Margin="0,0,-120,0" Width="300" Height="100" Grid.Row="1" Background="White"></TextBlock>
+        <TextBlock  x:Name="txtA" VerticalAlignment="Center" Margin="0,0,-120,0" Width="300" Height="100" Grid.Row="0" Background="White"> </TextBlock>
+        <TextBlock VerticalAlignment="Center" Margin="-300,0,0,0" Width="100" Height="100" Grid.Row="0" Text="A" FontSize="70" TextAlignment="Center" ></TextBlock>
+        <TextBlock x:Name="txtB" VerticalAlignment="Center" Margin="0,0,-120,0" Width="300" Height="100" Grid.Row="1" Background="White"></TextBlock>
         <TextBlock VerticalAlignment="Center" Margin="-300,0,0,0" Width="100" Height="100" Grid.Row="1" Text="B" FontSize="70" TextAlignment="Center"></TextBlock>
-        <TextBlock VerticalAlignment="Center" Margin="0,0,-120,0" Width="300" Height="100" Grid.Row="2" Background="White"></TextBlock>
+        <TextBlock x:Name="txtC" VerticalAlignment="Center" Margin="0,0,-120,0" Width="300" Height="100" Grid.Row="2" Background="White"></TextBlock>
         <TextBlock VerticalAlignment="Center" Margin="-300,0,0,0" Width="100" Height="100" Grid.Row="2" Text="C" FontSize="70" TextAlignment="Center"></TextBlock>
-        <Button VerticalAlignment="Center" Margin="-200,0,0,0" Width="300" Height="100" Grid.Row="3" FontSize="65" Background="White">CACULER </Button>
-        <Button VerticalAlignment="Center" Margin="0,0,-300,0" Width="100" Height="100" Grid.Row="3"  FontSize="60" Background="White" >V</Button>
+        <Button x:Name="calculer" VerticalAlignment="Center" Margin="-200,0,0,0" Width="300" Height="100" Grid.Row="3" FontSize="65" Background="White" Click="Button_Click" MouseDown="calculer_MouseDown">CACULER </Button>
+        <Button x:Name="vert" VerticalAlignment="Center" Margin="0,0,-300,0" Width="100" Height="100" Grid.Row="3"  FontSize="60" Background="White" >V</Button>
     </Grid>
 </Window>
