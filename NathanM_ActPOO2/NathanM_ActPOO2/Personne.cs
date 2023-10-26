@@ -43,7 +43,7 @@ namespace NathanM_ActPOO2
                 return true;
             }
         }
-        public string AjouterArgent(double argent)
+        public void AjouterArgent(double argent)
         {
             _argent += argent;
             
