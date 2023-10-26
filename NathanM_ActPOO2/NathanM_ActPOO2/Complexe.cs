@@ -24,22 +24,24 @@ namespace NathanM_ActPOO2
         }
         public Complexe(double imaginaire, double reel)
         {
-            _imaginaire=imaginaire;
-            _reel=reel;
+            _reel = reel;
+            _imaginaire =imaginaire;
+            
         }
         public double Module()
         {
             double module = Math.Sqrt( Math.Pow(_reel, 2) + Math.Pow(_imaginaire, 2));
             return module;
         }
-        public void Ajoute(Complexe C)
+        public void Ajoute(Complexe C )
         {
-            _reel = _reel + C._reel;
-            _imaginaire = _imaginaire + C._imaginaire;
+            _reel +=  C._reel;
+            _imaginaire +=  C._imaginaire;
+            
         }
         public string AfficheComplexe()
         {
-            string chaine = " Le complexe : (" + _reel + "," +_imaginaire +") ";
+            string chaine = " Le complexe : ("+ _imaginaire + "," + _reel + ") ";
             return chaine;
         }
         public string AfficheModule()

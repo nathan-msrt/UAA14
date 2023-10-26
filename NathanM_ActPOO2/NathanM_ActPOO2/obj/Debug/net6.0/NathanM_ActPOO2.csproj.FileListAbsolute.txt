@@ -13,3 +13,17 @@ H:\6TI\UAA14\NathanM_ActPOO2\NathanM_ActPOO2\obj\Debug\net6.0\refint\NathanM_Act
 H:\6TI\UAA14\NathanM_ActPOO2\NathanM_ActPOO2\obj\Debug\net6.0\NathanM_ActPOO2.pdb
 H:\6TI\UAA14\NathanM_ActPOO2\NathanM_ActPOO2\obj\Debug\net6.0\NathanM_ActPOO2.genruntimeconfig.cache
 H:\6TI\UAA14\NathanM_ActPOO2\NathanM_ActPOO2\obj\Debug\net6.0\ref\NathanM_ActPOO2.dll
+C:\ITN\UAA14\NathanM_ActPOO2\NathanM_ActPOO2\bin\Debug\net6.0\NathanM_ActPOO2.exe
+C:\ITN\UAA14\NathanM_ActPOO2\NathanM_ActPOO2\bin\Debug\net6.0\NathanM_ActPOO2.deps.json
+C:\ITN\UAA14\NathanM_ActPOO2\NathanM_ActPOO2\bin\Debug\net6.0\NathanM_ActPOO2.runtimeconfig.json
+C:\ITN\UAA14\NathanM_ActPOO2\NathanM_ActPOO2\bin\Debug\net6.0\NathanM_ActPOO2.dll
+C:\ITN\UAA14\NathanM_ActPOO2\NathanM_ActPOO2\bin\Debug\net6.0\NathanM_ActPOO2.pdb
+C:\ITN\UAA14\NathanM_ActPOO2\NathanM_ActPOO2\obj\Debug\net6.0\NathanM_ActPOO2.GeneratedMSBuildEditorConfig.editorconfig
+C:\ITN\UAA14\NathanM_ActPOO2\NathanM_ActPOO2\obj\Debug\net6.0\NathanM_ActPOO2.AssemblyInfoInputs.cache
+C:\ITN\UAA14\NathanM_ActPOO2\NathanM_ActPOO2\obj\Debug\net6.0\NathanM_ActPOO2.AssemblyInfo.cs
+C:\ITN\UAA14\NathanM_ActPOO2\NathanM_ActPOO2\obj\Debug\net6.0\NathanM_ActPOO2.csproj.CoreCompileInputs.cache
+C:\ITN\UAA14\NathanM_ActPOO2\NathanM_ActPOO2\obj\Debug\net6.0\NathanM_ActPOO2.dll
+C:\ITN\UAA14\NathanM_ActPOO2\NathanM_ActPOO2\obj\Debug\net6.0\refint\NathanM_ActPOO2.dll
+C:\ITN\UAA14\NathanM_ActPOO2\NathanM_ActPOO2\obj\Debug\net6.0\NathanM_ActPOO2.pdb
+C:\ITN\UAA14\NathanM_ActPOO2\NathanM_ActPOO2\obj\Debug\net6.0\NathanM_ActPOO2.genruntimeconfig.cache
+C:\ITN\UAA14\NathanM_ActPOO2\NathanM_ActPOO2\obj\Debug\net6.0\ref\NathanM_ActPOO2.dll
