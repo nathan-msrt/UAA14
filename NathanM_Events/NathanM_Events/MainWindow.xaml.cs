@@ -24,12 +24,11 @@ namespace NathanM_Events
         public MainWindow()
         {
             InitializeComponent();
-            txtA.PreviewTextInput += new TextCompositionEventHandler(TextBlock_TextInput);
-            txtB.PreviewTextInput += new TextCompositionEventHandler(TextBlock_TextInput);
-            txtC.PreviewTextInput += new TextCompositionEventHandler(TextBlock_TextInput);
-            vert.MouseEnter += new MouseEventHandler(Button_MouseMove);
+            txtA.PreviewTextInput += new TextCompositionEventHandler(VerifTextInput);
+            txtB.PreviewTextInput += new TextCompositionEventHandler(VerifTextInput);
+            txtC.PreviewTextInput += new TextCompositionEventHandler(VerifTextInput);
             calculer.Click += new RoutedEventHandler(Button_Click);
-            calculer.MouseDown += new MouseButtonEventHandler(calculer_MouseDown);
+            calculer.MouseEnter += new MouseEventHandler(SurvolBouton);
         }
 
         private void Button_Click(object sender, RoutedEventArgs e)
@@ -44,28 +43,29 @@ namespace NathanM_Events
             if (double.TryParse(txtA.Text, out a) && double.TryParse(txtB.Text, out b) && double.TryParse(txtC.Text, out c))
             {
                 ResoudTrinome(a, b, c, out message);
+                PageResultat secondePage = new PageResultat();
+                secondePage.AffichageReponse.Text = message;
+                secondePage.Show();
             }
         }
-        private void Button_MouseMove(object sender, MouseEventArgs e)
+
+        private void SurvolBouton(object sender, MouseEventArgs e)
         {
-            vert.Visibility = Visibility.Visible;
-            vert.Background = Brushes.Red;
-        }
-        private void TextBlock_TextInput(object sender, TextCompositionEventArgs e)
-        {
-            double a;
-            double b;
-            double c;
-            a = double.Parse(Console.ReadLine());
-            b = double.Parse(Console.ReadLine());
-            c = double.Parse(Console.ReadLine());
+            if (vert.Visibility == Visibility.Hidden)
+            {
+                vert.Visibility = Visibility.Visible;
+            }
+            else
+            {
+                vert.Visibility = Visibility.Hidden;
+            }
         }
 
         private void calculer_MouseDown(object sender, MouseButtonEventArgs e)
         {
             MessageBox.Show(" ");
         }
-        static void ResoudTrinome(double a, double b, double c, out string message)
+        static string  ResoudTrinome(double a, double b, double c, out string message)
         {
             double delta = Math.Pow(b, 2) - 4 * a * c;
             if (delta < 0)
@@ -83,6 +83,25 @@ namespace NathanM_Events
                 double x1 = (-b + Math.Sqrt(delta)) / (2 * a);
                 double x2 = (-b - Math.Sqrt(delta)) / (2 * a);
                 message = "Il y a deux solutions " + x1 + " et " + x2;
+            }
+            return message;
+        }
+        private bool EstEntier(string texte)
+        {
+            return int.TryParse(texte, out int _);
+        }
+        private void VerifTextInput(object sender, TextCompositionEventArgs e)
+        {
+            if (e.Text != "," && e.Text != "-" && !EstEntier(e.Text))
+            {
+                e.Handled = true;
+            }
+            else if (e.Text == "," || e.Text == "-")
+            {
+                if (((TextBox)sender).Text.IndexOf(e.Text) > -1)
+                {
+                    e.Handled = true;
+                }
             }
         }
     }
