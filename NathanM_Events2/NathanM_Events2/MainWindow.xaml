@@ -28,9 +28,26 @@
                 <CheckBox Margin="0,0,0,0" VerticalAlignment="Center" HorizontalAlignment="Center" FontSize="25" Foreground="Beige">Tente</CheckBox>
             </StackPanel>
         </GroupBox>
-        
-        
-        <GroupBox x:Name="txtSejour"  Margin="-50,20,30,10" Header="CARACTERISTIQUES DU SEJOUR" FontSize="24" Grid.RowSpan="3" Grid.Column="3" Grid.ColumnSpan="4" Foreground="Beige"></GroupBox>
-        <GroupBox x:Name="txtResultat"  Margin="10,10,10,10" Header="RESULTAT" FontSize="24" Grid.Row="3" Grid.RowSpan="2" Grid.Column="0" Grid.ColumnSpan="4" Foreground="Beige" ></GroupBox>
+
+
+        <GroupBox x:Name="txtSejour"  Margin="-50,20,30,10" Header="CARACTERISTIQUES DU SEJOUR" FontSize="24" Grid.RowSpan="3" Grid.Column="3" Grid.ColumnSpan="4" Foreground="Beige">
+            <StackPanel>
+                <TextBlock Text="Nombre de personnes (entre1 et 6)" FontSize="20" Margin="  20,10,0,0"> </TextBlock>
+                <TextBox  x:Name="txtpersonne" Margin="350,-25,20,5" Grid.Row="0" Background="White"></TextBox>
+                <TextBlock Text="Date d'arrivé :" FontSize="20" Margin="  20,10,0,0"></TextBlock>
+                <TextBox  x:Name="txtDateArrive" Margin="180,-25,20,0" Grid.Row="0" Background="White"></TextBox>
+                <TextBlock Text="Date de sortie :" FontSize="20" Margin="  20,10,0,0"></TextBlock>
+                <TextBox  x:Name="txtDateSortie" Margin="180,-25,20,0" Grid.Row="0" Background="White"></TextBox>
+                <Button></Button>
+            </StackPanel>
+        </GroupBox>
+        <GroupBox x:Name="txtResultat"  Margin="10,10,10,10" Header="RESULTATS" FontSize="24" Grid.Row="3" Grid.RowSpan="2" Grid.Column="0" Grid.ColumnSpan="4" Foreground="Beige" >
+            <StackPanel>
+                <TextBlock FontSize="20" Text="Prix à payer :" Margin=" 20,10,0,0"></TextBlock>
+                <TextBlock FontSize="20" Text="Nombre de semaines :" Margin=" 20,10,0,0"></TextBlock>
+            </StackPanel>
+        </GroupBox>
+        <Button Grid.Row="3" Grid.Column="4"  Grid.ColumnSpan="2" Margin="50,30,50,10" FontSize="30">Calculer </Button>
+        <Button Grid.Row="4" Grid.Column="4"  Grid.ColumnSpan="2" Margin="50,20,50,20" FontSize="30">INIT</Button>
     </Grid>
 </Window>
