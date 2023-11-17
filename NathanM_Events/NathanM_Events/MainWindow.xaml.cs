@@ -51,21 +51,17 @@ namespace NathanM_Events
 
         private void SurvolBouton(object sender, MouseEventArgs e)
         {
-            if (vert.Visibility == Visibility.Hidden)
-            {
-                vert.Visibility = Visibility.Visible;
-            }
-            else
+            if (vert.Visibility == Visibility.Visible)
             {
                 vert.Visibility = Visibility.Hidden;
             }
+            else
+            {
+                vert.Visibility = Visibility.Visible;
+            }
         }
 
-        private void calculer_MouseDown(object sender, MouseButtonEventArgs e)
-        {
-            MessageBox.Show(" ");
-        }
-        static string  ResoudTrinome(double a, double b, double c, out string message)
+        private string  ResoudTrinome(double a, double b, double c, out string message)
         {
             double delta = Math.Pow(b, 2) - 4 * a * c;
             if (delta < 0)
