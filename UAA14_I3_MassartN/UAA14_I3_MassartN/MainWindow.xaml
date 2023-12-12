@@ -35,6 +35,6 @@
         </GroupBox>
         <TextBlock Margin="0,0,0,0" Grid.Row="2" Grid.ColumnSpan="4" FontSize="18" TextAlignment="Center" VerticalAlignment="Center" Text="Les deux nombres doivent être constitués de 0 et de 1 et ne doivent pas contenir plus de 7 caractères !"></TextBlock>
         <Button x:Name="calculer" Margin="10,80,10,-35" Grid.Row="2" Grid.ColumnSpan="4" Background="#F2E963" FontSize="30" Foreground="#D95B29"> CALCULER </Button>
-        <Button Margin="10,50,10,10" Grid.Row="3" Grid.Column="2" Grid.ColumnSpan="4" Background="#F2E963" FontSize="30" Foreground="#D95B29"> RESET</Button>
+        <TextBlock  x:Name="reset" Margin="10,50,10,10" Grid.Row="3" Grid.Column="2" Grid.ColumnSpan="4" Background="#F2E963" FontSize="30" Foreground="#D95B29"> RESET</TextBlock>
     </Grid>
 </Window>

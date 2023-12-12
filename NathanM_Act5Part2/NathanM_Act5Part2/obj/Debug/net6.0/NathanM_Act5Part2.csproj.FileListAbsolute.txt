@@ -1,0 +1,15 @@
+H:\6TI\UAA14\NathanM_Act5Part2\NathanM_Act5Part2\bin\Debug\net6.0\NathanM_Act5Part2.exe
+H:\6TI\UAA14\NathanM_Act5Part2\NathanM_Act5Part2\bin\Debug\net6.0\NathanM_Act5Part2.deps.json
+H:\6TI\UAA14\NathanM_Act5Part2\NathanM_Act5Part2\bin\Debug\net6.0\NathanM_Act5Part2.runtimeconfig.json
+H:\6TI\UAA14\NathanM_Act5Part2\NathanM_Act5Part2\bin\Debug\net6.0\NathanM_Act5Part2.dll
+H:\6TI\UAA14\NathanM_Act5Part2\NathanM_Act5Part2\bin\Debug\net6.0\NathanM_Act5Part2.pdb
+H:\6TI\UAA14\NathanM_Act5Part2\NathanM_Act5Part2\obj\Debug\net6.0\NathanM_Act5Part2.csproj.AssemblyReference.cache
+H:\6TI\UAA14\NathanM_Act5Part2\NathanM_Act5Part2\obj\Debug\net6.0\NathanM_Act5Part2.GeneratedMSBuildEditorConfig.editorconfig
+H:\6TI\UAA14\NathanM_Act5Part2\NathanM_Act5Part2\obj\Debug\net6.0\NathanM_Act5Part2.AssemblyInfoInputs.cache
+H:\6TI\UAA14\NathanM_Act5Part2\NathanM_Act5Part2\obj\Debug\net6.0\NathanM_Act5Part2.AssemblyInfo.cs
+H:\6TI\UAA14\NathanM_Act5Part2\NathanM_Act5Part2\obj\Debug\net6.0\NathanM_Act5Part2.csproj.CoreCompileInputs.cache
+H:\6TI\UAA14\NathanM_Act5Part2\NathanM_Act5Part2\obj\Debug\net6.0\NathanM_Act5Part2.dll
+H:\6TI\UAA14\NathanM_Act5Part2\NathanM_Act5Part2\obj\Debug\net6.0\refint\NathanM_Act5Part2.dll
+H:\6TI\UAA14\NathanM_Act5Part2\NathanM_Act5Part2\obj\Debug\net6.0\NathanM_Act5Part2.pdb
+H:\6TI\UAA14\NathanM_Act5Part2\NathanM_Act5Part2\obj\Debug\net6.0\NathanM_Act5Part2.genruntimeconfig.cache
+H:\6TI\UAA14\NathanM_Act5Part2\NathanM_Act5Part2\obj\Debug\net6.0\ref\NathanM_Act5Part2.dll

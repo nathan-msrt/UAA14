@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33815.320
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CeUAA14Partie2_dec23_Massart", "CeUAA14Partie2_dec23_Massart\CeUAA14Partie2_dec23_Massart.csproj", "{DBCE8DFF-E69B-4B9A-AA16-072D365CB67A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DBCE8DFF-E69B-4B9A-AA16-072D365CB67A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DBCE8DFF-E69B-4B9A-AA16-072D365CB67A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DBCE8DFF-E69B-4B9A-AA16-072D365CB67A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DBCE8DFF-E69B-4B9A-AA16-072D365CB67A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C9D46CDF-065E-4C4A-BC2B-4F1451463673}
+	EndGlobalSection
+EndGlobal

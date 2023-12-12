@@ -1,0 +1,15 @@
+H:\6TI\UAA14\CeUAA14Partie2_dec23_Massart\CeUAA14Partie2_dec23_Massart\obj\Debug\net6.0\CeUAA14Partie2_dec23_Massart.csproj.AssemblyReference.cache
+H:\6TI\UAA14\CeUAA14Partie2_dec23_Massart\CeUAA14Partie2_dec23_Massart\obj\Debug\net6.0\CeUAA14Partie2_dec23_Massart.GeneratedMSBuildEditorConfig.editorconfig
+H:\6TI\UAA14\CeUAA14Partie2_dec23_Massart\CeUAA14Partie2_dec23_Massart\obj\Debug\net6.0\CeUAA14Partie2_dec23_Massart.AssemblyInfoInputs.cache
+H:\6TI\UAA14\CeUAA14Partie2_dec23_Massart\CeUAA14Partie2_dec23_Massart\obj\Debug\net6.0\CeUAA14Partie2_dec23_Massart.AssemblyInfo.cs
+H:\6TI\UAA14\CeUAA14Partie2_dec23_Massart\CeUAA14Partie2_dec23_Massart\obj\Debug\net6.0\CeUAA14Partie2_dec23_Massart.csproj.CoreCompileInputs.cache
+H:\6TI\UAA14\CeUAA14Partie2_dec23_Massart\CeUAA14Partie2_dec23_Massart\bin\Debug\net6.0\CeUAA14Partie2_dec23_Massart.exe
+H:\6TI\UAA14\CeUAA14Partie2_dec23_Massart\CeUAA14Partie2_dec23_Massart\bin\Debug\net6.0\CeUAA14Partie2_dec23_Massart.deps.json
+H:\6TI\UAA14\CeUAA14Partie2_dec23_Massart\CeUAA14Partie2_dec23_Massart\bin\Debug\net6.0\CeUAA14Partie2_dec23_Massart.runtimeconfig.json
+H:\6TI\UAA14\CeUAA14Partie2_dec23_Massart\CeUAA14Partie2_dec23_Massart\bin\Debug\net6.0\CeUAA14Partie2_dec23_Massart.dll
+H:\6TI\UAA14\CeUAA14Partie2_dec23_Massart\CeUAA14Partie2_dec23_Massart\bin\Debug\net6.0\CeUAA14Partie2_dec23_Massart.pdb
+H:\6TI\UAA14\CeUAA14Partie2_dec23_Massart\CeUAA14Partie2_dec23_Massart\obj\Debug\net6.0\CeUAA14Partie2_dec23_Massart.dll
+H:\6TI\UAA14\CeUAA14Partie2_dec23_Massart\CeUAA14Partie2_dec23_Massart\obj\Debug\net6.0\refint\CeUAA14Partie2_dec23_Massart.dll
+H:\6TI\UAA14\CeUAA14Partie2_dec23_Massart\CeUAA14Partie2_dec23_Massart\obj\Debug\net6.0\CeUAA14Partie2_dec23_Massart.pdb
+H:\6TI\UAA14\CeUAA14Partie2_dec23_Massart\CeUAA14Partie2_dec23_Massart\obj\Debug\net6.0\CeUAA14Partie2_dec23_Massart.genruntimeconfig.cache
+H:\6TI\UAA14\CeUAA14Partie2_dec23_Massart\CeUAA14Partie2_dec23_Massart\obj\Debug\net6.0\ref\CeUAA14Partie2_dec23_Massart.dll
