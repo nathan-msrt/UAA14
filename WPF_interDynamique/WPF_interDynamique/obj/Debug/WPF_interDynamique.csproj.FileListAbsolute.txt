@@ -1,0 +1,16 @@
+H:\6TI\UAA14\WPF_interDynamique\WPF_interDynamique\bin\Debug\WPF_interDynamique.exe.config
+H:\6TI\UAA14\WPF_interDynamique\WPF_interDynamique\bin\Debug\WPF_interDynamique.exe
+H:\6TI\UAA14\WPF_interDynamique\WPF_interDynamique\bin\Debug\WPF_interDynamique.pdb
+H:\6TI\UAA14\WPF_interDynamique\WPF_interDynamique\obj\Debug\WPF_interDynamique.csproj.AssemblyReference.cache
+H:\6TI\UAA14\WPF_interDynamique\WPF_interDynamique\obj\Debug\WPF_interDynamique.csproj.SuggestedBindingRedirects.cache
+H:\6TI\UAA14\WPF_interDynamique\WPF_interDynamique\obj\Debug\MainWindow.g.cs
+H:\6TI\UAA14\WPF_interDynamique\WPF_interDynamique\obj\Debug\App.g.cs
+H:\6TI\UAA14\WPF_interDynamique\WPF_interDynamique\obj\Debug\WPF_interDynamique_MarkupCompile.cache
+H:\6TI\UAA14\WPF_interDynamique\WPF_interDynamique\obj\Debug\WPF_interDynamique_MarkupCompile.lref
+H:\6TI\UAA14\WPF_interDynamique\WPF_interDynamique\obj\Debug\MainWindow.baml
+H:\6TI\UAA14\WPF_interDynamique\WPF_interDynamique\obj\Debug\WPF_interDynamique.g.resources
+H:\6TI\UAA14\WPF_interDynamique\WPF_interDynamique\obj\Debug\WPF_interDynamique.Properties.Resources.resources
+H:\6TI\UAA14\WPF_interDynamique\WPF_interDynamique\obj\Debug\WPF_interDynamique.csproj.GenerateResource.cache
+H:\6TI\UAA14\WPF_interDynamique\WPF_interDynamique\obj\Debug\WPF_interDynamique.csproj.CoreCompileInputs.cache
+H:\6TI\UAA14\WPF_interDynamique\WPF_interDynamique\obj\Debug\WPF_interDynamique.exe
+H:\6TI\UAA14\WPF_interDynamique\WPF_interDynamique\obj\Debug\WPF_interDynamique.pdb
