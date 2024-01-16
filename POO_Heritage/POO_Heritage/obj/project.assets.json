@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "H:\\6TI\\UAA14\\ActPOO_Voiture\\ActPOO_Voiture\\ActPOO_Voiture.csproj",
-      "projectName": "ActPOO_Voiture",
-      "projectPath": "H:\\6TI\\UAA14\\ActPOO_Voiture\\ActPOO_Voiture\\ActPOO_Voiture.csproj",
+      "projectUniqueName": "H:\\6TI\\UAA14\\POO_Heritage\\POO_Heritage\\POO_Heritage.csproj",
+      "projectName": "POO_Heritage",
+      "projectPath": "H:\\6TI\\UAA14\\POO_Heritage\\POO_Heritage\\POO_Heritage.csproj",
       "packagesPath": "C:\\Users\\220747\\.nuget\\packages\\",
-      "outputPath": "H:\\6TI\\UAA14\\ActPOO_Voiture\\ActPOO_Voiture\\obj\\",
+      "outputPath": "H:\\6TI\\UAA14\\POO_Heritage\\POO_Heritage\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\220747\\AppData\\Roaming\\NuGet\\NuGet.Config",
