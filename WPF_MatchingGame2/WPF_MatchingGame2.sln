@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33815.320
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WPF_MatchingGame2", "WPF_MatchingGame2\WPF_MatchingGame2.csproj", "{81056F64-ADF3-4F14-8D02-1A5CEF9F5E1F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{81056F64-ADF3-4F14-8D02-1A5CEF9F5E1F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{81056F64-ADF3-4F14-8D02-1A5CEF9F5E1F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{81056F64-ADF3-4F14-8D02-1A5CEF9F5E1F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{81056F64-ADF3-4F14-8D02-1A5CEF9F5E1F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {97503BD0-52D2-4445-B48D-9FFC4F5271CF}
+	EndGlobalSection
+EndGlobal
