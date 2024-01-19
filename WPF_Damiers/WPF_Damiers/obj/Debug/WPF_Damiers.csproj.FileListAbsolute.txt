@@ -1,0 +1,16 @@
+H:\6TI\UAA14\WPF_Damiers\WPF_Damiers\bin\Debug\WPF_Damiers.exe.config
+H:\6TI\UAA14\WPF_Damiers\WPF_Damiers\bin\Debug\WPF_Damiers.exe
+H:\6TI\UAA14\WPF_Damiers\WPF_Damiers\bin\Debug\WPF_Damiers.pdb
+H:\6TI\UAA14\WPF_Damiers\WPF_Damiers\obj\Debug\WPF_Damiers.csproj.AssemblyReference.cache
+H:\6TI\UAA14\WPF_Damiers\WPF_Damiers\obj\Debug\WPF_Damiers.csproj.SuggestedBindingRedirects.cache
+H:\6TI\UAA14\WPF_Damiers\WPF_Damiers\obj\Debug\MainWindow.g.cs
+H:\6TI\UAA14\WPF_Damiers\WPF_Damiers\obj\Debug\App.g.cs
+H:\6TI\UAA14\WPF_Damiers\WPF_Damiers\obj\Debug\WPF_Damiers_MarkupCompile.cache
+H:\6TI\UAA14\WPF_Damiers\WPF_Damiers\obj\Debug\WPF_Damiers_MarkupCompile.lref
+H:\6TI\UAA14\WPF_Damiers\WPF_Damiers\obj\Debug\MainWindow.baml
+H:\6TI\UAA14\WPF_Damiers\WPF_Damiers\obj\Debug\WPF_Damiers.g.resources
+H:\6TI\UAA14\WPF_Damiers\WPF_Damiers\obj\Debug\WPF_Damiers.Properties.Resources.resources
+H:\6TI\UAA14\WPF_Damiers\WPF_Damiers\obj\Debug\WPF_Damiers.csproj.GenerateResource.cache
+H:\6TI\UAA14\WPF_Damiers\WPF_Damiers\obj\Debug\WPF_Damiers.csproj.CoreCompileInputs.cache
+H:\6TI\UAA14\WPF_Damiers\WPF_Damiers\obj\Debug\WPF_Damiers.exe
+H:\6TI\UAA14\WPF_Damiers\WPF_Damiers\obj\Debug\WPF_Damiers.pdb

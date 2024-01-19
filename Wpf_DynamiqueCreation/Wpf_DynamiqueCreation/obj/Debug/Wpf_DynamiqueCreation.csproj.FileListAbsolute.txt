@@ -1,0 +1,15 @@
+C:\ITN\Wpf_DynamiqueCreation\Wpf_DynamiqueCreation\obj\Debug\Wpf_DynamiqueCreation.csproj.AssemblyReference.cache
+C:\ITN\Wpf_DynamiqueCreation\Wpf_DynamiqueCreation\obj\Debug\MainWindow.g.cs
+C:\ITN\Wpf_DynamiqueCreation\Wpf_DynamiqueCreation\obj\Debug\App.g.cs
+C:\ITN\Wpf_DynamiqueCreation\Wpf_DynamiqueCreation\obj\Debug\Wpf_DynamiqueCreation_MarkupCompile.cache
+C:\ITN\Wpf_DynamiqueCreation\Wpf_DynamiqueCreation\obj\Debug\Wpf_DynamiqueCreation_MarkupCompile.lref
+C:\ITN\Wpf_DynamiqueCreation\Wpf_DynamiqueCreation\bin\Debug\Wpf_DynamiqueCreation.exe.config
+C:\ITN\Wpf_DynamiqueCreation\Wpf_DynamiqueCreation\bin\Debug\Wpf_DynamiqueCreation.exe
+C:\ITN\Wpf_DynamiqueCreation\Wpf_DynamiqueCreation\bin\Debug\Wpf_DynamiqueCreation.pdb
+C:\ITN\Wpf_DynamiqueCreation\Wpf_DynamiqueCreation\obj\Debug\MainWindow.baml
+C:\ITN\Wpf_DynamiqueCreation\Wpf_DynamiqueCreation\obj\Debug\Wpf_DynamiqueCreation.g.resources
+C:\ITN\Wpf_DynamiqueCreation\Wpf_DynamiqueCreation\obj\Debug\Wpf_DynamiqueCreation.Properties.Resources.resources
+C:\ITN\Wpf_DynamiqueCreation\Wpf_DynamiqueCreation\obj\Debug\Wpf_DynamiqueCreation.csproj.GenerateResource.cache
+C:\ITN\Wpf_DynamiqueCreation\Wpf_DynamiqueCreation\obj\Debug\Wpf_DynamiqueCreation.csproj.CoreCompileInputs.cache
+C:\ITN\Wpf_DynamiqueCreation\Wpf_DynamiqueCreation\obj\Debug\Wpf_DynamiqueCreation.exe
+C:\ITN\Wpf_DynamiqueCreation\Wpf_DynamiqueCreation\obj\Debug\Wpf_DynamiqueCreation.pdb
