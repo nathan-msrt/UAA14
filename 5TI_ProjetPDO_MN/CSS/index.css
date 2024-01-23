@@ -1,0 +1,260 @@
+.photo{
+    height: 250px;
+    position: relative;
+}
+body {
+    background-color: white;
+    margin: 0;
+    padding: 0;
+}
+main {
+    width: 80%;
+    margin: 0 auto;
+}
+.position {
+    position : relative ;
+    margin-bottom: 50px;
+    top : -100px;
+}
+
+/* Mettre les titres h1 en couleur bleue, taille 50px et la police en Arial */
+h1 {
+    color: black;
+    font-size: 100px;
+    font-family: 'Times New Roman', Times, serif;
+    text-decoration: underline;
+    text-align: center;
+    font-style: oblique;
+    border: 4px solid black;
+    border-radius: 10px;
+}
+
+h2 {
+    color: black;
+    font-size: 30px;
+    font-family: 'Times New Roman', Times, serif;
+    border: 3px solid black;
+    border-radius: 10px;
+}
+h3 {
+    text-align: center;
+    text-decoration: underline ;
+    font-size: 50px;
+}
+
+img {
+    width: 300px;
+    height: auto;
+}
+
+ol li {
+    font-size: 30px ;
+    margin-bottom: 20px;
+}
+
+#imageProfil {
+    width: 200px;
+    height: auto;
+    border-radius: 50%;
+    transform: scale(0);
+}
+
+#imageBien {
+    height: 200px;
+    width: auto;
+}
+
+.btn {
+    display: inline-block;
+    background-color: #F0F0F2;
+    border-radius: 10px;
+    border: 1px double black;
+    color: #eeeeee;
+    text-align: center;
+    font-size: 28px;
+    padding: 20px;
+    width: 200px;
+    transition: all 0.5s;
+    cursor: pointer;
+    margin: 5px;
+}
+
+.btn-page {
+    background-color:black;
+    color: whitesmoke;
+    border: 1px solid white;
+    cursor: pointer;
+}
+
+.btn-primary {
+    background-color: #F0F0F2;
+    color: black;
+    border-radius: 10px;
+    border: 2px double black;
+    text-align: center;
+    cursor: pointer;
+}
+
+.btn-secondary {
+    background-color: #F0F0F2;
+    color: black;
+    border-radius: 10px;
+    border: 2px double black;
+    text-align: center;
+    cursor: pointer;
+}
+
+.btn-send {
+    background-color: rgb(9, 162, 233);
+    color: whitesmoke;
+    border: 1px solid white;
+}
+
+.btn-load {
+    background-color: rgb(44, 117, 10);
+    color: whitesmoke;
+    border: 1px solid white;
+}
+
+.imageMenu {
+    color: azure;
+    cursor: pointer;
+}
+
+a {
+    text-decoration: none;
+    
+}
+
+#lienAgence {
+    display: inline-block;
+    padding: 15px;
+    border: 2px solid white;
+}
+
+#imageLettre{
+    height: 80px;
+    width: auto;
+}
+
+table, th, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+    padding: 10px;
+}
+
+.width-80 {
+    width: 80%;
+}
+
+.center {
+    text-align: center;
+}
+
+.border {
+    border: 4px solid black;
+    color: whitesmoke;
+    border-radius: 10px;
+    text-align: center;
+}
+
+.card {
+    width: 300px;
+    padding: 10px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    text-align: center;
+}
+
+header {
+    background-color: black;
+    margin: 0;
+    padding: 10px;
+}
+
+ul {
+    list-style-type: none;
+}
+
+ul li {
+    padding: 15px;
+    border: 3px solid white;
+    border-radius: 10px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+ul li a {
+    color: white;
+    font-size: larger;
+}
+
+.blocImageBien {
+    height: 300px;
+    align-items: center;
+}
+
+.imageIcon {
+    width: 30px;
+}
+
+footer {
+    background-color: black;
+    margin: 0;
+    padding: 10px;
+    margin-top: 20px;
+    
+
+}
+footer p{
+    border: 3px solid white;
+    border-radius: 10px;
+}
+
+footer p a {
+    color: white;
+}
+
+th {
+    background-color: aqua;
+}
+
+.blocGauche {
+    width: 300px;
+}
+
+.justify {
+    text-align: justify;
+}
+
+.mt-50 {
+    margin-top: 50px;
+}
+
+.mt-30 {
+    margin-top: 30px;
+}
+
+.form-group input {
+    border: 2px solid red;
+    border-radius: 100em;
+    color: grey;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 1.5em;
+    outline: none;
+    padding: .5rem 1.5rem;
+    width: 80%;
+}
+
+.form-group label {
+    font-size: 30px;
+}
+
+.progress {
+    border: 1px solid black;
+    padding: 5px;
+}
+
+.progress-bar {
+    height: 20px;
+    background-color: green;
+}
