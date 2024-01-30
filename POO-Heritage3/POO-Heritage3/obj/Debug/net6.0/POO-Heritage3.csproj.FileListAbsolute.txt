@@ -1,0 +1,15 @@
+H:\6TI\UAA14\POO-Heritage3\POO-Heritage3\obj\Debug\net6.0\POO-Heritage3.csproj.AssemblyReference.cache
+H:\6TI\UAA14\POO-Heritage3\POO-Heritage3\obj\Debug\net6.0\POO-Heritage3.GeneratedMSBuildEditorConfig.editorconfig
+H:\6TI\UAA14\POO-Heritage3\POO-Heritage3\obj\Debug\net6.0\POO-Heritage3.AssemblyInfoInputs.cache
+H:\6TI\UAA14\POO-Heritage3\POO-Heritage3\obj\Debug\net6.0\POO-Heritage3.AssemblyInfo.cs
+H:\6TI\UAA14\POO-Heritage3\POO-Heritage3\obj\Debug\net6.0\POO-Heritage3.csproj.CoreCompileInputs.cache
+H:\6TI\UAA14\POO-Heritage3\POO-Heritage3\bin\Debug\net6.0\POO-Heritage3.exe
+H:\6TI\UAA14\POO-Heritage3\POO-Heritage3\bin\Debug\net6.0\POO-Heritage3.deps.json
+H:\6TI\UAA14\POO-Heritage3\POO-Heritage3\bin\Debug\net6.0\POO-Heritage3.runtimeconfig.json
+H:\6TI\UAA14\POO-Heritage3\POO-Heritage3\bin\Debug\net6.0\POO-Heritage3.dll
+H:\6TI\UAA14\POO-Heritage3\POO-Heritage3\bin\Debug\net6.0\POO-Heritage3.pdb
+H:\6TI\UAA14\POO-Heritage3\POO-Heritage3\obj\Debug\net6.0\POO-Heritage3.dll
+H:\6TI\UAA14\POO-Heritage3\POO-Heritage3\obj\Debug\net6.0\refint\POO-Heritage3.dll
+H:\6TI\UAA14\POO-Heritage3\POO-Heritage3\obj\Debug\net6.0\POO-Heritage3.pdb
+H:\6TI\UAA14\POO-Heritage3\POO-Heritage3\obj\Debug\net6.0\POO-Heritage3.genruntimeconfig.cache
+H:\6TI\UAA14\POO-Heritage3\POO-Heritage3\obj\Debug\net6.0\ref\POO-Heritage3.dll

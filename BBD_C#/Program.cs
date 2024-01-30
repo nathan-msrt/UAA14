@@ -1,12 +1,11 @@
-﻿using MySql.Data.MySqlClient;
+﻿
 using System.Data.Common;
-using System.Diagnostics;
 using System.Net;
 using System.Runtime.ConstrainedExecution;
 using System.Text;
 using System;
-using System.Data;
 using System.Security.Cryptography.X509Certificates;
+using System.Data;
 
 namespace BBD_C_
 {
@@ -31,7 +30,7 @@ namespace BBD_C_
             Console.WriteLine("Ajout d'un utilisateur :");
             Console.WriteLine("------------------------");
             Console.WriteLine("Nom ?");
-            donnees[0]= Console.ReadLine
+            donnees[0] = Console.ReadLine();
 
 
             

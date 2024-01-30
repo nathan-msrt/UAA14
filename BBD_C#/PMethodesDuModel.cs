@@ -7,6 +7,10 @@ using System.Diagnostics;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using System.Data;
+using MySql.Data.MySqlClient;
+using System.Diagnostics;
+
 
 namespace BBD_C_
 {
@@ -41,7 +45,7 @@ namespace BBD_C_
                 Debug.WriteLine(ex.Message);
                 throw;
             }
-
+            return ok;
         }
         public bool AjouteUser(string[] donnees)
         {
@@ -69,8 +73,9 @@ namespace BBD_C_
                 Debug.WriteLine(ex);
                 throw;
             }
+            return ok;
         }
-        public bool AfficheDataUsers(DataSet donnees)
+        public string AfficheDataUsers(DataSet donnees)
         {
             string infos = "";
             for (int i = 0; i < donnees.Tables[0].Rows.Count; i++)
