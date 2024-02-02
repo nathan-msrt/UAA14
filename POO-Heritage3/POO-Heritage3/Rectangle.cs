@@ -41,7 +41,7 @@ namespace POO_Heritage3
 
         public override string Afficher()
         {
-            return "Rectangle[tailleLongueur:" + _tailleLongueur + ";tailleLargeur:" + _tailleLargeur + ";couleur:" + _couleur + ";perimetre:" + Perimetre() + ";surface:" + Surface() + "]";
+            return "Rectangle [ Longueur:" + _tailleLongueur + "/ Largeur:" + _tailleLargeur + "/ Couleur:" + _couleur + "/ Perimetre:" + Perimetre() + "/ Surface:" + Surface() + "]";
         }
     }
 }

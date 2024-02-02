@@ -1,0 +1,16 @@
+H:\6TI\UAA14\WPF_Course\WPF_Course\bin\Debug\WPF_Course.exe.config
+H:\6TI\UAA14\WPF_Course\WPF_Course\bin\Debug\WPF_Course.exe
+H:\6TI\UAA14\WPF_Course\WPF_Course\bin\Debug\WPF_Course.pdb
+H:\6TI\UAA14\WPF_Course\WPF_Course\obj\Debug\WPF_Course.csproj.AssemblyReference.cache
+H:\6TI\UAA14\WPF_Course\WPF_Course\obj\Debug\WPF_Course.csproj.SuggestedBindingRedirects.cache
+H:\6TI\UAA14\WPF_Course\WPF_Course\obj\Debug\MainWindow.g.cs
+H:\6TI\UAA14\WPF_Course\WPF_Course\obj\Debug\App.g.cs
+H:\6TI\UAA14\WPF_Course\WPF_Course\obj\Debug\WPF_Course_MarkupCompile.cache
+H:\6TI\UAA14\WPF_Course\WPF_Course\obj\Debug\WPF_Course_MarkupCompile.lref
+H:\6TI\UAA14\WPF_Course\WPF_Course\obj\Debug\MainWindow.baml
+H:\6TI\UAA14\WPF_Course\WPF_Course\obj\Debug\WPF_Course.g.resources
+H:\6TI\UAA14\WPF_Course\WPF_Course\obj\Debug\WPF_Course.Properties.Resources.resources
+H:\6TI\UAA14\WPF_Course\WPF_Course\obj\Debug\WPF_Course.csproj.GenerateResource.cache
+H:\6TI\UAA14\WPF_Course\WPF_Course\obj\Debug\WPF_Course.csproj.CoreCompileInputs.cache
+H:\6TI\UAA14\WPF_Course\WPF_Course\obj\Debug\WPF_Course.exe
+H:\6TI\UAA14\WPF_Course\WPF_Course\obj\Debug\WPF_Course.pdb

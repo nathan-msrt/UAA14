@@ -22,10 +22,45 @@ namespace WPF_Course
     {
         public MainWindow()
         {
+            numerochien.PreviewTextInput += new TextCompositionEventHandler(VerifTextInput);
+            ecuspari.PreviewTextInput += new TextCompositionEventHandler(VerifTextInput);
+            J1.Click += new RoutedEventHandler(Button_Click);
+            B2.Click += new RoutedEventHandler(Button_Click);
+            B3.Click += new RoutedEventHandler(Button_Click);
             InitializeComponent();
-            ColumnDefinition[] coldef1 = new ColumnDefinition[tailleGrille];
-            RowDefinition[] rowdef1 = new RowDefinition[tailleGrille];
 
+        }
+        private void Button_Click(object sender, RoutedEventArgs e)
+        {
+            if (J1.Name=="J1")
+            {
+                quipari.Text = "Joe";
+            }else if (B2.Name =="B1")
+            {
+                quipari.Text = "Bob";
+            }
+            else
+            {
+                quipari.Text = "Bill";
+            }
+        }
+        private bool EstEntier(string texte)
+        {
+            return int.TryParse(texte, out int _);
+        }
+        private void VerifTextInput(object sender, TextCompositionEventArgs e)
+        {
+            if (e.Text != "," && e.Text != "-" && !EstEntier(e.Text))
+            {
+                e.Handled = true;
+            }
+            else if (e.Text == "," || e.Text == "-")
+            {
+                if (((TextBox)sender).Text.IndexOf(e.Text) > -1)
+                {
+                    e.Handled = true;
+                }
+            }
         }
     }
 }

@@ -34,7 +34,7 @@ namespace POO_Heritage3
 
         public override string Afficher()
         {
-            return "Carre[tailleCotes:" + _tailleCotes + ";couleur:" + _couleur + ";perimetre:" + Perimetre() + ";surface:" + Surface() + "]";
+            return "Carre [Taille des Cotés:" + _tailleCotes + "/ Couleur:" + _couleur + "/ Perimetre:" + Perimetre() + "/ Surface:" + Surface() + "]";
         }
     }
 }

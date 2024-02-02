@@ -6,7 +6,49 @@
         xmlns:local="clr-namespace:WPF_Course"
         mc:Ignorable="d"
         Title="MainWindow" Height="700" Width="850">
-    <Grid Name ="Grid">
-        
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="1*" />
+            <RowDefinition Height="1*" />
+        </Grid.RowDefinitions>
+        <Canvas x:Name="racetrack">
+            <Image Source="images/racetrack.png" Canvas.Left="25" Canvas.Top="38"></Image>
+        </Canvas>
+        <GroupBox Margin="10,10,10,10" Grid.Row="1" Header="Salle des paris" FontSize="24">
+            <Grid>
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="2*" />
+                    <RowDefinition Height="1*" />
+                </Grid.RowDefinitions>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="1*" />
+                    <ColumnDefinition Width="1*" />
+                </Grid.ColumnDefinitions>
+                <StackPanel>
+                    <TextBlock Text="Pari minimum : 5 écus" FontWeight="Bold" FontSize="24" Margin="10,10,0,0" />
+                    <RadioButton Margin="10,20,0,0" GroupName="paris"  x:Name="J1"  Content="Joe possède X écus" FontSize="20" />
+                    <RadioButton Margin="10,10,0,0" GroupName="paris" x:Name="B2" Content="Bob possède X écus" FontSize="20" />
+                    <RadioButton Margin="10,10,0,0" GroupName="paris" x:Name="B3" Content="Bill possède X écus" FontSize="20" />
+                </StackPanel>
+                <StackPanel Grid.Column="1">
+                    <TextBlock Text="Paris placés" FontWeight="Bold" FontSize="24" Margin="10,10,0,0" />
+                    <TextBlock Text="Joe n'a pas encore parié" FontSize="20" Margin="10,20,0,0" />
+                    <TextBlock Text="Bob n'a pas encore parié" FontSize="20" Margin="10,10,0,0" />
+                    <TextBlock Text="Bill n'a pas encore parié" FontSize="20" Margin="10,10,0,0" />
+                </StackPanel>
+                <StackPanel Grid.Row="1" Grid.ColumnSpan="2">
+                    <StackPanel Orientation="Horizontal" Margin="10,10,10,10">
+                        <TextBlock x:Name="quipari" FontSize="20" Text="Bob" />
+                        <TextBlock FontSize="20" Text=" parie " />
+                        <TextBox x:Name="ecuspari" MinWidth="30" TextAlignment="Center" Text="0" FontSize="20" FontWeight="Bold" BorderBrush="Black" />
+                        <TextBlock FontSize="20" Text=" écus sur le chien numéro " />
+                        <TextBox x:Name="numerochien" MinWidth="30" TextAlignment="Center" Text="" FontSize="20" FontWeight="Bold" BorderBrush="Black" />
+                        <Button Content="Mettre le pari" Padding="5,0,5,0" FontSize="20" Margin="20,0,0,0" />
+                        <Button Content="Lancer la course !" Padding="5,0,5,0" FontSize="20" Margin="10,0,0,0" />
+                    </StackPanel>
+                    <Button Margin="10,10,10,10" Content="Remettre à zéro" FontSize="20" />
+                </StackPanel>
+            </Grid>
+        </GroupBox>
     </Grid>
 </Window>
