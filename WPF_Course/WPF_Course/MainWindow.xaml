@@ -32,9 +32,9 @@
                 </StackPanel>
                 <StackPanel Grid.Column="1">
                     <TextBlock Text="Paris placés" FontWeight="Bold" FontSize="24" Margin="10,10,0,0" />
-                    <TextBlock Text="Joe n'a pas encore parié" FontSize="20" Margin="10,20,0,0" />
-                    <TextBlock Text="Bob n'a pas encore parié" FontSize="20" Margin="10,10,0,0" />
-                    <TextBlock Text="Bill n'a pas encore parié" FontSize="20" Margin="10,10,0,0" />
+                    <TextBlock x:Name="phrase1" Text="Joe n'a pas encore parié" FontSize="20" Margin="10,20,0,0" />
+                    <TextBlock x:Name="phrase2" Text="Bob n'a pas encore parié" FontSize="20" Margin="10,10,0,0" />
+                    <TextBlock x:Name="phrase3" Text="Bill n'a pas encore parié" FontSize="20" Margin="10,10,0,0" />
                 </StackPanel>
                 <StackPanel Grid.Row="1" Grid.ColumnSpan="2">
                     <StackPanel Orientation="Horizontal" Margin="10,10,10,10">

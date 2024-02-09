@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using System.Windows;
 using System.Windows.Controls;
 
 namespace WPF_Course
@@ -47,7 +48,30 @@ namespace WPF_Course
             _monPari = monPari;
             _cash = cash;
             _textBlockEtatPari = textBlockEtatPari;
+        }
+        public void AjouterPortefeuille(int ecus)
+        {
+            _cash += ecus;
+        }
 
+        public bool RetirerPortefeuille(int ecus)
+        {
+            if (_cash >= ecus)
+            {
+                _cash -= ecus;
+                return true;
+            }
+            return false;
+        }
+
+        public bool Parier(int ecus, Chien chien)
+        {
+            if (_cash< ecus)
+            {
+                return false;
+            }
+            _pariActuel = new Pari(ecus, chien);
+            return true;
         }
     }
 }

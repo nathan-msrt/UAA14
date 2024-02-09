@@ -22,20 +22,22 @@ namespace WPF_Course
     {
         public MainWindow()
         {
+            InitializeComponent();
             numerochien.PreviewTextInput += new TextCompositionEventHandler(VerifTextInput);
             ecuspari.PreviewTextInput += new TextCompositionEventHandler(VerifTextInput);
             J1.Click += new RoutedEventHandler(Button_Click);
             B2.Click += new RoutedEventHandler(Button_Click);
             B3.Click += new RoutedEventHandler(Button_Click);
-            InitializeComponent();
+            
 
         }
-        private void Button_Click(object sender, RoutedEventArgs e)
+        public void Button_Click(object sender, RoutedEventArgs e)
         {
-            if (J1.Name=="J1")
+            if (J1.Name == "J1")
             {
                 quipari.Text = "Joe";
-            }else if (B2.Name =="B1")
+            }
+            else if (B2.Name == "B1")
             {
                 quipari.Text = "Bob";
             }
@@ -43,6 +45,10 @@ namespace WPF_Course
             {
                 quipari.Text = "Bill";
             }
+        }
+        public void Button_ClickPari(object sender, RoutedEventArgs e)
+        {
+            
         }
         private bool EstEntier(string texte)
         {
