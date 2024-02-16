@@ -64,14 +64,14 @@ namespace WPF_Course
             return false;
         }
 
-        public bool Parier(int ecus, Chien chien)
-        {
-            if (_cash< ecus)
-            {
-                return false;
-            }
-            _pariActuel = new Pari(ecus, chien);
-            return true;
-        }
+        //public bool Parier(int ecus, Chien chien)
+        //{
+        //    if (_cash< ecus)
+        //    {
+        //        return false;
+        //    }
+        //    //_pariActuel = new Pari(ecus, chien);
+        //    //return true;
+        //}
     }
 }

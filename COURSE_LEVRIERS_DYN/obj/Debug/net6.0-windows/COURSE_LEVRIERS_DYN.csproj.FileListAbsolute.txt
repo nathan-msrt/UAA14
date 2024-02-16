@@ -1,0 +1,63 @@
+\\Mac\Home\Documents\COURS_TI\UAA14 POO\SOLUTIONS ACTIVITES WPF\COURSE_LEVRIERS_DYN\bin\Debug\net6.0-windows\COURSE_LEVRIERS_DYN.exe
+\\Mac\Home\Documents\COURS_TI\UAA14 POO\SOLUTIONS ACTIVITES WPF\COURSE_LEVRIERS_DYN\bin\Debug\net6.0-windows\COURSE_LEVRIERS_DYN.deps.json
+\\Mac\Home\Documents\COURS_TI\UAA14 POO\SOLUTIONS ACTIVITES WPF\COURSE_LEVRIERS_DYN\bin\Debug\net6.0-windows\COURSE_LEVRIERS_DYN.runtimeconfig.json
+\\Mac\Home\Documents\COURS_TI\UAA14 POO\SOLUTIONS ACTIVITES WPF\COURSE_LEVRIERS_DYN\bin\Debug\net6.0-windows\COURSE_LEVRIERS_DYN.dll
+\\Mac\Home\Documents\COURS_TI\UAA14 POO\SOLUTIONS ACTIVITES WPF\COURSE_LEVRIERS_DYN\bin\Debug\net6.0-windows\COURSE_LEVRIERS_DYN.pdb
+\\Mac\Home\Documents\COURS_TI\UAA14 POO\SOLUTIONS ACTIVITES WPF\COURSE_LEVRIERS_DYN\obj\Debug\net6.0-windows\COURSE_LEVRIERS_DYN.csproj.AssemblyReference.cache
+\\Mac\Home\Documents\COURS_TI\UAA14 POO\SOLUTIONS ACTIVITES WPF\COURSE_LEVRIERS_DYN\obj\Debug\net6.0-windows\MainWindow.g.cs
+\\Mac\Home\Documents\COURS_TI\UAA14 POO\SOLUTIONS ACTIVITES WPF\COURSE_LEVRIERS_DYN\obj\Debug\net6.0-windows\App.g.cs
+\\Mac\Home\Documents\COURS_TI\UAA14 POO\SOLUTIONS ACTIVITES WPF\COURSE_LEVRIERS_DYN\obj\Debug\net6.0-windows\COURSE_LEVRIERS_DYN_MarkupCompile.cache
+\\Mac\Home\Documents\COURS_TI\UAA14 POO\SOLUTIONS ACTIVITES WPF\COURSE_LEVRIERS_DYN\obj\Debug\net6.0-windows\COURSE_LEVRIERS_DYN_MarkupCompile.lref
+\\Mac\Home\Documents\COURS_TI\UAA14 POO\SOLUTIONS ACTIVITES WPF\COURSE_LEVRIERS_DYN\obj\Debug\net6.0-windows\MainWindow.baml
+\\Mac\Home\Documents\COURS_TI\UAA14 POO\SOLUTIONS ACTIVITES WPF\COURSE_LEVRIERS_DYN\obj\Debug\net6.0-windows\COURSE_LEVRIERS_DYN.g.resources
+\\Mac\Home\Documents\COURS_TI\UAA14 POO\SOLUTIONS ACTIVITES WPF\COURSE_LEVRIERS_DYN\obj\Debug\net6.0-windows\COURSE_LEVRIERS_DYN.GeneratedMSBuildEditorConfig.editorconfig
+\\Mac\Home\Documents\COURS_TI\UAA14 POO\SOLUTIONS ACTIVITES WPF\COURSE_LEVRIERS_DYN\obj\Debug\net6.0-windows\COURSE_LEVRIERS_DYN.AssemblyInfoInputs.cache
+\\Mac\Home\Documents\COURS_TI\UAA14 POO\SOLUTIONS ACTIVITES WPF\COURSE_LEVRIERS_DYN\obj\Debug\net6.0-windows\COURSE_LEVRIERS_DYN.AssemblyInfo.cs
+\\Mac\Home\Documents\COURS_TI\UAA14 POO\SOLUTIONS ACTIVITES WPF\COURSE_LEVRIERS_DYN\obj\Debug\net6.0-windows\COURSE_LEVRIERS_DYN.csproj.CoreCompileInputs.cache
+\\Mac\Home\Documents\COURS_TI\UAA14 POO\SOLUTIONS ACTIVITES WPF\COURSE_LEVRIERS_DYN\obj\Debug\net6.0-windows\COURSE_LEVRIERS_DYN.dll
+\\Mac\Home\Documents\COURS_TI\UAA14 POO\SOLUTIONS ACTIVITES WPF\COURSE_LEVRIERS_DYN\obj\Debug\net6.0-windows\refint\COURSE_LEVRIERS_DYN.dll
+\\Mac\Home\Documents\COURS_TI\UAA14 POO\SOLUTIONS ACTIVITES WPF\COURSE_LEVRIERS_DYN\obj\Debug\net6.0-windows\COURSE_LEVRIERS_DYN.pdb
+\\Mac\Home\Documents\COURS_TI\UAA14 POO\SOLUTIONS ACTIVITES WPF\COURSE_LEVRIERS_DYN\obj\Debug\net6.0-windows\COURSE_LEVRIERS_DYN.genruntimeconfig.cache
+\\Mac\Home\Documents\COURS_TI\UAA14 POO\SOLUTIONS ACTIVITES WPF\COURSE_LEVRIERS_DYN\obj\Debug\net6.0-windows\ref\COURSE_LEVRIERS_DYN.dll
+\\Mac\Home\Downloads\COURSE_LEVRIERS_DYN\bin\Debug\net6.0-windows\COURSE_LEVRIERS_DYN.exe
+\\Mac\Home\Downloads\COURSE_LEVRIERS_DYN\bin\Debug\net6.0-windows\COURSE_LEVRIERS_DYN.deps.json
+\\Mac\Home\Downloads\COURSE_LEVRIERS_DYN\bin\Debug\net6.0-windows\COURSE_LEVRIERS_DYN.runtimeconfig.json
+\\Mac\Home\Downloads\COURSE_LEVRIERS_DYN\bin\Debug\net6.0-windows\COURSE_LEVRIERS_DYN.dll
+\\Mac\Home\Downloads\COURSE_LEVRIERS_DYN\bin\Debug\net6.0-windows\COURSE_LEVRIERS_DYN.pdb
+\\Mac\Home\Downloads\COURSE_LEVRIERS_DYN\obj\Debug\net6.0-windows\MainWindow.g.cs
+\\Mac\Home\Downloads\COURSE_LEVRIERS_DYN\obj\Debug\net6.0-windows\App.g.cs
+\\Mac\Home\Downloads\COURSE_LEVRIERS_DYN\obj\Debug\net6.0-windows\COURSE_LEVRIERS_DYN_MarkupCompile.cache
+\\Mac\Home\Downloads\COURSE_LEVRIERS_DYN\obj\Debug\net6.0-windows\COURSE_LEVRIERS_DYN_MarkupCompile.lref
+\\Mac\Home\Downloads\COURSE_LEVRIERS_DYN\obj\Debug\net6.0-windows\MainWindow.baml
+\\Mac\Home\Downloads\COURSE_LEVRIERS_DYN\obj\Debug\net6.0-windows\COURSE_LEVRIERS_DYN.g.resources
+\\Mac\Home\Downloads\COURSE_LEVRIERS_DYN\obj\Debug\net6.0-windows\COURSE_LEVRIERS_DYN.GeneratedMSBuildEditorConfig.editorconfig
+\\Mac\Home\Downloads\COURSE_LEVRIERS_DYN\obj\Debug\net6.0-windows\COURSE_LEVRIERS_DYN.AssemblyInfoInputs.cache
+\\Mac\Home\Downloads\COURSE_LEVRIERS_DYN\obj\Debug\net6.0-windows\COURSE_LEVRIERS_DYN.AssemblyInfo.cs
+\\Mac\Home\Downloads\COURSE_LEVRIERS_DYN\obj\Debug\net6.0-windows\COURSE_LEVRIERS_DYN.csproj.CoreCompileInputs.cache
+\\Mac\Home\Downloads\COURSE_LEVRIERS_DYN\obj\Debug\net6.0-windows\COURSE_LEVRIERS_DYN.dll
+\\Mac\Home\Downloads\COURSE_LEVRIERS_DYN\obj\Debug\net6.0-windows\refint\COURSE_LEVRIERS_DYN.dll
+\\Mac\Home\Downloads\COURSE_LEVRIERS_DYN\obj\Debug\net6.0-windows\COURSE_LEVRIERS_DYN.pdb
+\\Mac\Home\Downloads\COURSE_LEVRIERS_DYN\obj\Debug\net6.0-windows\COURSE_LEVRIERS_DYN.genruntimeconfig.cache
+\\Mac\Home\Downloads\COURSE_LEVRIERS_DYN\obj\Debug\net6.0-windows\ref\COURSE_LEVRIERS_DYN.dll
+\\Mac\Home\Downloads\COURSE_LEVRIERS_DYN\obj\Debug\net6.0-windows\COURSE_LEVRIERS_DYN.csproj.AssemblyReference.cache
+H:\6TI\UAA14\COURSE_LEVRIERS_DYN\bin\Debug\net6.0-windows\COURSE_LEVRIERS_DYN.exe
+H:\6TI\UAA14\COURSE_LEVRIERS_DYN\bin\Debug\net6.0-windows\COURSE_LEVRIERS_DYN.deps.json
+H:\6TI\UAA14\COURSE_LEVRIERS_DYN\bin\Debug\net6.0-windows\COURSE_LEVRIERS_DYN.runtimeconfig.json
+H:\6TI\UAA14\COURSE_LEVRIERS_DYN\bin\Debug\net6.0-windows\COURSE_LEVRIERS_DYN.dll
+H:\6TI\UAA14\COURSE_LEVRIERS_DYN\bin\Debug\net6.0-windows\COURSE_LEVRIERS_DYN.pdb
+H:\6TI\UAA14\COURSE_LEVRIERS_DYN\obj\Debug\net6.0-windows\COURSE_LEVRIERS_DYN.csproj.AssemblyReference.cache
+H:\6TI\UAA14\COURSE_LEVRIERS_DYN\obj\Debug\net6.0-windows\MainWindow.g.cs
+H:\6TI\UAA14\COURSE_LEVRIERS_DYN\obj\Debug\net6.0-windows\App.g.cs
+H:\6TI\UAA14\COURSE_LEVRIERS_DYN\obj\Debug\net6.0-windows\COURSE_LEVRIERS_DYN_MarkupCompile.cache
+H:\6TI\UAA14\COURSE_LEVRIERS_DYN\obj\Debug\net6.0-windows\COURSE_LEVRIERS_DYN_MarkupCompile.lref
+H:\6TI\UAA14\COURSE_LEVRIERS_DYN\obj\Debug\net6.0-windows\MainWindow.baml
+H:\6TI\UAA14\COURSE_LEVRIERS_DYN\obj\Debug\net6.0-windows\COURSE_LEVRIERS_DYN.g.resources
+H:\6TI\UAA14\COURSE_LEVRIERS_DYN\obj\Debug\net6.0-windows\COURSE_LEVRIERS_DYN.GeneratedMSBuildEditorConfig.editorconfig
+H:\6TI\UAA14\COURSE_LEVRIERS_DYN\obj\Debug\net6.0-windows\COURSE_LEVRIERS_DYN.AssemblyInfoInputs.cache
+H:\6TI\UAA14\COURSE_LEVRIERS_DYN\obj\Debug\net6.0-windows\COURSE_LEVRIERS_DYN.AssemblyInfo.cs
+H:\6TI\UAA14\COURSE_LEVRIERS_DYN\obj\Debug\net6.0-windows\COURSE_LEVRIERS_DYN.csproj.CoreCompileInputs.cache
+H:\6TI\UAA14\COURSE_LEVRIERS_DYN\obj\Debug\net6.0-windows\COURSE_LEVRIERS_DYN.dll
+H:\6TI\UAA14\COURSE_LEVRIERS_DYN\obj\Debug\net6.0-windows\refint\COURSE_LEVRIERS_DYN.dll
+H:\6TI\UAA14\COURSE_LEVRIERS_DYN\obj\Debug\net6.0-windows\COURSE_LEVRIERS_DYN.pdb
+H:\6TI\UAA14\COURSE_LEVRIERS_DYN\obj\Debug\net6.0-windows\COURSE_LEVRIERS_DYN.genruntimeconfig.cache
+H:\6TI\UAA14\COURSE_LEVRIERS_DYN\obj\Debug\net6.0-windows\ref\COURSE_LEVRIERS_DYN.dll
