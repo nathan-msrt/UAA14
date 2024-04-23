@@ -1,0 +1,49 @@
+﻿<Window x:Class="CE_UAA14WPF24Rattrapage_Massart.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:CE_UAA14WPF24Rattrapage_Massart"
+        mc:Ignorable="d"
+        Title="CE WPF CHANCE 2" Height="1000" Width="1200" Background="#EBD9b4">
+    <Grid x:Name="grid">
+        <Grid.ColumnDefinitions >
+            <ColumnDefinition Width="2*"/>
+            <ColumnDefinition Width="1*"/>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="1*"/>
+            <RowDefinition Height="8*"/>
+            <RowDefinition Height="1*"/>
+        </Grid.RowDefinitions>
+        <TextBlock Text="VERIFIONS VOS CONNAISSANCES EN WPF !" FontSize="34" FontWeight="Bold" Grid.ColumnSpan="2" HorizontalAlignment="Center" VerticalAlignment="Center" Foreground="#638889"> </TextBlock>
+        <TextBlock x:Name="testwpf" Text="Test WPF 6T 2024" Grid.Row="3" Grid.ColumnSpan="2" HorizontalAlignment="Center" VerticalAlignment="Center" FontSize="30" Foreground="Red" FontWeight="Bold"></TextBlock>
+        <StackPanel Grid.Row="1" Grid.Column="1" Background="#9dbc98"  MaxHeight="400" VerticalAlignment="Top" >
+            <GroupBox Header="Paramétrage"   FontWeight="Bold" Width="380" FontSize="22">
+                <StackPanel>
+                    <GroupBox x:Name="gbDispo" Header="Choix de la disposition" FontWeight="Bold" MinHeight="180" Width="360" FontSize="22">
+                        <StackPanel VerticalAlignment="Center" >
+                            <RadioButton Content="Solitaire" x:Name="Solitaire" GroupName="¨Dispostion" Height="30" Width="320" FontSize="22"></RadioButton>
+                            <RadioButton  Content="Marelle" x:Name="Marelle" GroupName="Disposition" Height="30" Width="320" FontSize="22"></RadioButton>
+                            <RadioButton Content="Une bande latérale"  x:Name="BandeLaterale" GroupName="¨Dispostion" Height="30" Width="320" FontSize="22"></RadioButton>
+                        </StackPanel>
+                    </GroupBox>
+                    <GroupBox x:Name="gbTaille" Header="Taille du plateau" FontWeight="Bold" MinHeight="180" Width="360" FontSize="22">
+                        <StackPanel >
+                            <TextBlock Text="Nbre de lignes" FontSize="22" ></TextBlock>
+                            <TextBox x:Name="row" Width="70" ></TextBox>
+                            <TextBlock Text="Nbre de collones" FontSize="22"></TextBlock>
+                            <TextBox x:Name="colonnes" Width="70"></TextBox>
+                        </StackPanel>
+                    </GroupBox>
+                </StackPanel>
+            </GroupBox>
+        </StackPanel>
+        <Button x:Name="valider" Grid.Row="1" Grid.Column="1" Margin="5,410,5,310" FontSize="22" FontWeight="Bold">Valider</Button>
+        <Button x:Name="reset" Grid.Row="1" Grid.Column="1" Margin="5,510,5,210" FontSize="22" FontWeight="Bold">Reset</Button>
+        <Grid x:Name="grilleJeu" Grid.Row="1">
+            
+        </Grid>
+    </Grid>
+    
+</Window>

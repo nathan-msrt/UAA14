@@ -21,5 +21,12 @@ namespace NathanM_Bar
         { 
             _reserve = reserve;
         }
+
+        public string AfficherReserve()
+        {
+            string chaine = "";
+
+            return chaine;
+        }
     }
 }

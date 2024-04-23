@@ -28,5 +28,6 @@ namespace NathanM_Bar
             _quantite = quantite;
             _contenu = contenu;
         }
+        
     }
 }

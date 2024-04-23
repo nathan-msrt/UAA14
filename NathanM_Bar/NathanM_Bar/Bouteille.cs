@@ -29,9 +29,15 @@ namespace NathanM_Bar
 			_contenu = contenu;
 		}
 
-		public string Verser()
+		public string Verser(Portion portion)
 		{
-			string
-		}
+			_contenance -= portion.Quantite 
+        }
+		public string Jeter(Bouteille bouteille)
+		{
+			string chaine = "La Bouteille de " + bouteille.Contenu.Nom + "a été jetée.";
+			bouteille = null;
+			return chaine;
+        }
 	}
 }
